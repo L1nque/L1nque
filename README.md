@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  Hey, I'm drew. I'm an <span text="bold">Ex-DevSecOps & Backend Engineer for IBM Security Orchestration and Response</span>
+  Hey, I'm drew -- an <span text="bold">Ex-DevSecOps & Backend Engineer for IBM Security Orchestration and Response</span>
   Basically, I'm a software engineer and I don't know how I ended up here (psst.. but I like it).
 
   Architecture (software.. duhh) is where my passion is. I shine when building hyper-scaling enterprise grade applications, that need to be shipped & delivered fast. 
